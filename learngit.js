@@ -30,3 +30,8 @@ Switch between branches
 $git add learngit.js
 	- It adds learngit.js to staging area!
 	- Now $git diff wont work instead try gi diff --staged
+
+-------------------
+
+See changes after commit
+ - $git show commit_hash
