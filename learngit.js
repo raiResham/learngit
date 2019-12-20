@@ -35,3 +35,6 @@ $git add learngit.js
 
 See changes after commit
  - $git show commit_hash
+
+Features to add
+1. App like talking tom!
