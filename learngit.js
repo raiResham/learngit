@@ -11,4 +11,3 @@ no/yes
 
 Kodaline
 
-Cover
