@@ -11,4 +11,4 @@ def div(a,b):
 	pass
 
 def square(a):
-    pass
+    return a * a
