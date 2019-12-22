@@ -9,3 +9,6 @@ def mul(a,b):
 
 def div(a,b):
 	pass
+
+def square(a):
+    pass
