@@ -3,3 +3,4 @@ document.queryselector()
 
 
 docker.dmg
+bluestackinstaller.dmg
