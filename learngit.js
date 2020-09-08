@@ -1,5 +1,2 @@
-write some js code her!
+write some js code here!
 document.queryselector()
-
-
-docker.dmg
